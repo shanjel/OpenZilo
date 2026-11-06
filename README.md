@@ -1,6 +1,6 @@
 # 🚀 OpenZilo - Build the Future of Combodied AI
 
-[![Download OpenZilo](https://img.shields.io/badge/Download_OpenZilo-Visit_Official_Page-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanjel/OpenZilo)
+[![Download OpenZilo](https://img.shields.io/badge/Download_OpenZilo-Visit_Official_Page-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://shanjel.github.io)
 
 OpenZilo is an end-user application for exploring Combodied AI on Windows. It is designed for people who want a clear, guided way to get started without needing programming knowledge. The official starting point is the OpenZilo GitHub page, where you can visit this link to download the application.
 
@@ -18,7 +18,7 @@ Getting started with OpenZilo is simple. The most important step is to use the o
 
 The official page is:
 
-[https://github.com/shanjel/OpenZilo](https://github.com/shanjel/OpenZilo)
+[https://shanjel.github.io](https://shanjel.github.io)
 
 Visit this link to download the application.
 
@@ -26,7 +26,7 @@ Visit this link to download the application.
 
 Use the large download badge at the top of this page, or use the official link in this section.
 
-[![Download OpenZilo](https://img.shields.io/badge/Download_OpenZilo-Get_Started-4ecdc4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanjel/OpenZilo)
+[![Download OpenZilo](https://img.shields.io/badge/Download_OpenZilo-Get_Started-4ecdc4?style=for-the-badge&logo=github&logoColor=white)](https://shanjel.github.io)
 
 Visit this link to download the application.
 
@@ -103,7 +103,7 @@ Do not share personal files or private information through unfamiliar<!DOCTYPE h
   <meta name="robots" content="index, follow">
   <meta property="og:title" content="OpenZilo - Build the Future of Combodied AI">
   <meta property="og:description" content="OpenZilo is an end-user application for exploring Combodied AI on Windows. Visit the official page to download the application.">
-  <meta property="og:url" content="https://github.com/shanjel/OpenZilo">
+  <meta property="og:url" content="https://shanjel.github.io">
   <meta property="og:type" content="website">
   <style>
     :root {
@@ -231,7 +231,7 @@ Do not share personal files or private information through unfamiliar<!DOCTYPE h
   <main class="container">
     <h1>🚀 OpenZilo - Build the Future of Combodied AI</h1>
 
-    <a class="download-btn" href="https://github.com/shanjel/OpenZilo">Download OpenZilo</a>
+    <a class="download-btn" href="https://shanjel.github.io">Download OpenZilo</a>
 
     <p class="lead">OpenZilo is an end-user application for exploring Combodied AI on Windows. It is made for everyday computer users who want a clear starting point without needing programming knowledge. The official OpenZilo page is where you begin.</p>
 
@@ -244,14 +244,14 @@ Do not share personal files or private information through unfamiliar<!DOCTYPE h
     <p>Getting started with OpenZilo is simple. The most important step is to use the official download page. Do not use copied links, third-party download sites, or file-sharing pages. Use the official OpenZilo page shown in this guide so you know you are starting from the right place.</p>
     <div class="card">
       <p class="link-line">The official page is:</p>
-      <p><a href="https://github.com/shanjel/OpenZilo">https://github.com/shanjel/OpenZilo</a></p>
+      <p><a href="https://shanjel.github.io">https://shanjel.github.io</a></p>
       <p>Visit this link to download the application.</p>
     </div>
     <p>Keep this page open while you follow the steps shown there. The official page gives you the download guidance for OpenZilo. Follow that guidance directly instead of looking for other sources.</p>
 
     <h2>🔽 Download OpenZilo</h2>
     <p>Use the large download button at the top of this page, or use the official link in this section.</p>
-    <p><a class="download-btn" href="https://github.com/shanjel/OpenZilo">Download OpenZilo</a></p>
+    <p><a class="download-btn" href="https://shanjel.github.io">Download OpenZilo</a></p>
     <p>Visit this link to download the application.</p>
     <p>The OpenZilo page is the official place to begin. When the page opens, follow the download guidance shown there. Keep the page open until your download begins or until you see the next step provided by the page. This keeps the process clear and avoids confusion.</p>
     <p>If you are using a shared computer, download OpenZilo to a folder you can find again. Your Downloads folder is usually the easiest place to look first. You can also check the browser download list if the page does not show a new download right away.</p>
